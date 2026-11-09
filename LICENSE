@@ -1,13 +1,11 @@
 桥梁涡振中的风速与加速度时程
-MAT 数据使用许可
+数据使用许可
 
 SPDX-License-Identifier: CC-BY-NC-4.0
 
-本许可适用于以下事件目录中的 39 对 MAT 文件，每对包含同一时段的风速与主梁加速度记录。
-
-    2013_02_05_21_40_to_2013_02_06_04_00/
-        *_Windtimehistory.mat    风速时程
-        *_VIVtimehistory.mat     主梁加速度时程
+本许可适用于本项目发布的全部风速与主梁加速度测量数据，包括仓库中的示例数据、通过 GitHub Releases 分发的事件数据压缩包，以及各压缩包内所有事件的 MAT 测量文件。
+完整数据集发布在 viv-data-v1 版本中，共 601 个 ZIP 压缩包。
+https://github.com/TJ-wind/VIV-measurement-data-of-a-1650-suspension-bridge/releases/tag/viv-data-v1
 
 上述数据采用知识共享「署名—非商业性使用 4.0 协议国际版」（CC BY-NC 4.0）发布。
 你可以为科研、教学等非商业目的使用、复制、分享和改编这些数据。商业使用须另行取得数据权利人的授权。
@@ -20,11 +18,14 @@ https://creativecommons.org/licenses/by-nc/4.0/legalcode.zh-hans
 
 
 Wind and acceleration time histories during bridge vortex-induced vibration
-MAT data license
+Data license
 
-This license applies to the 39 pairs of MAT files in the event directory listed
-above. Each pair contains wind and girder acceleration records for the same
-time interval.
+This license covers all wind and girder acceleration measurements published
+as part of this project. It includes the examples in the repository, all event
+data archives distributed through GitHub Releases, and the MAT measurement
+files for every event in those archives. The viv-data-v1 release contains
+601 ZIP archives of event data.
+https://github.com/TJ-wind/VIV-measurement-data-of-a-1650-suspension-bridge/releases/tag/viv-data-v1
 
 These data are licensed under the Creative Commons Attribution-NonCommercial
 4.0 International license (CC BY-NC 4.0). You may use, copy, share, and adapt
