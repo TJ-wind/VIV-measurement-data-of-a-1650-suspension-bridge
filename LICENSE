@@ -1,0 +1,41 @@
+桥梁涡振中的风速与加速度时程
+MAT 数据使用许可
+
+SPDX-License-Identifier: CC-BY-NC-4.0
+
+本许可适用于以下事件目录中的 39 对 MAT 文件，每对包含同一时段的风速与主梁加速度记录。
+
+    2013_02_05_21_40_to_2013_02_06_04_00/
+        *_Windtimehistory.mat    风速时程
+        *_VIVtimehistory.mat     主梁加速度时程
+
+上述数据采用知识共享「署名—非商业性使用 4.0 协议国际版」（CC BY-NC 4.0）发布。
+你可以为科研、教学等非商业目的使用、复制、分享和改编这些数据。商业使用须另行取得数据权利人的授权。
+
+分享原始或改编数据时，请保留随数据提供的署名和许可信息，附上许可链接，并说明对数据所作的修改。
+建议用数据集名称《桥梁涡振中的风速与加速度时程》和所用版本的仓库链接标明来源。
+
+许可全文
+https://creativecommons.org/licenses/by-nc/4.0/legalcode.zh-hans
+
+
+Wind and acceleration time histories during bridge vortex-induced vibration
+MAT data license
+
+This license applies to the 39 pairs of MAT files in the event directory listed
+above. Each pair contains wind and girder acceleration records for the same
+time interval.
+
+These data are licensed under the Creative Commons Attribution-NonCommercial
+4.0 International license (CC BY-NC 4.0). You may use, copy, share, and adapt
+the data for noncommercial purposes, including research and teaching.
+Commercial use requires separate permission from the data rights holder.
+
+When sharing the original or adapted data, retain the attribution and license
+notices supplied with the data, link to the license, and indicate any changes
+you made. To identify the source, we suggest citing the dataset title,
+“Wind and acceleration time histories during bridge vortex-induced vibration”,
+and linking to the repository version you used.
+
+Full license terms
+https://creativecommons.org/licenses/by-nc/4.0/legalcode.en
